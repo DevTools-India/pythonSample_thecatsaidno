@@ -1,5 +1,5 @@
 ---
-page_type: sample
+page_type: Sample
 description: "Deploy Python application using GitHub Actions"
 products:
 - GitHub Actions
