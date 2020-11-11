@@ -1,5 +1,5 @@
 ---
-page_type: Sample Application Testing
+page_type: Sample Application Testing Working
 description: "Deploy Python application using GitHub Actions"
 products:
 - GitHub Actions
