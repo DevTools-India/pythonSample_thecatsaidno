@@ -1,6 +1,6 @@
 ---
 page_type: Sample Application Testing Working
-description: "Deploy Python application using GitHub Actions"
+description: "Deploy Python application using GitHub Actions Testing"
 products:
 - GitHub Actions
 - Azure App service
